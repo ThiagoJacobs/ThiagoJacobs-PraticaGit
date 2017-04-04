@@ -10,5 +10,5 @@ package thiagojacobs.praticagit;
  * @author ALUNO
  */
 public class Classe2 {
-    
+    // modificação
 }
